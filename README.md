@@ -1,16 +1,13 @@
-## Hi there 👋
+## Select Key Initiatives
 
-<!--
-**Techn0logy/Techn0logy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI-Powered Workflow Automation Platform
 
-Here are some ideas to get you started:
+Designed and built a full-stack automation platform that orchestrates AI agents, processes structured data, and delivers real-time analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI-Powered Semantic Search and Document Intelligence Platform
+
+Designed and built a full-stack RAG application that enables users to semantically search, analyze, and interrogate large document corpora through natural language.
+
+### Independent Technical Assessment: Early-Stage AI Infrastructure Investment
+
+Conducted an in-depth technical evaluation of an early-stage AI inference governance architecture on behalf of an investor. Assessed architectural claims, implementation feasibility, competitive positioning, and go-to-market viability, and delivered a written assessment summarizing findings and recommended diligence follow-ups.
